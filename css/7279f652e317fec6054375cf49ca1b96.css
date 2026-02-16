@@ -3,12 +3,12 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf) format('truetype');
+  src: url('fonts/b7f2642f88458f9332ede5312b543473.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf) format('truetype');
+  src: url('fonts/590754e07a9a931b1c9d08f873cf4dfb.ttf') format('truetype');
 }
